@@ -1,4 +1,4 @@
-## Olá me chamo Martim, mas mais conhecido no discord como BluAimz!
+## Olá me chamo Martim\BluAimz!
 <div>
   <a href="https://github.com/IBluAimz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IBluAimz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
